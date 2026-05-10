@@ -31,7 +31,7 @@ The numbering is a workflow, not a ranking — `grill-me` runs once per feature,
 
 ```bash
 # clone this repo into your project's .claude/skills/
-git clone https://github.com/imaadmalikk/skills.git tmp-skills
+git clone https://github.com/imaadmalikkk/skills.git tmp-skills
 mkdir -p .claude/skills
 cp -r tmp-skills/skills/grill-me .claude/skills/
 rm -rf tmp-skills
@@ -111,6 +111,14 @@ The original is by [Matt Pocock](https://www.aihero.dev/my-grill-me-skill-has-go
 ## Video
 
 Walkthrough of the entire workflow on a real Funnlr PR: [YouTube link — coming soon]
+
+---
+
+## Work With Me
+
+Building AI for your business? **→ [cal.com/imaadmalik](https://cal.com/imaadmalik)** — 30 min, no pitch.
+
+I build with AI for founders, or coach them to. One call, two paths.
 
 ---
 
